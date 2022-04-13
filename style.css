@@ -1,0 +1,14 @@
+hi{
+ padding-left: 100px;
+color: rgb(43, 255, 0);
+}
+*{
+    border: solid;
+    
+}
+.header{
+  background-color:#0004ff;
+  display: flex;
+  justify-content: space-between;
+
+}
